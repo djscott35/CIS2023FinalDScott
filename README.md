@@ -8,5 +8,4 @@ This repository contains a bash script ('print_numbers.sh') that prints numbers 
 
 Run the script:
 
-'''bash
-./print_numbers.sh
+bash ./print_numbers.sh
